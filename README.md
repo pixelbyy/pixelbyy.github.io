@@ -1,1 +1,1 @@
-# galaxiusgames-app-ads.txt
+# app-ads.txt for Galaxius Games LLC
